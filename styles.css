@@ -1,0 +1,60 @@
+	body{
+		background-color:white;
+		font-family:'Calibri';	
+	}
+	p{
+		font-size:18px;
+	}
+	.fullwidth
+	{
+		width:100%;	
+	}	
+	#header {
+		margin-top:50px;
+		height: 50px;
+		background: linear-gradient(to right,  orange, white , green);
+		box-shadow: 0 3px 5px 0 rgba(176, 194, 17, 0.88);
+	 }
+	#header header{
+		padding:2px;
+	}
+	#header h3,h3{
+		margin-top:10px; font-weight: 900; text-align:center;
+	}
+	#aboutIndia{
+		margin-top:20px; font-weight: 600; text-align:left;
+	}
+	.gridbordergrey
+	{
+		border: 5px solid white;
+	}
+	.whitebackground
+	{
+		background-color:white;
+	}
+	.whiteborder{
+		border: 5px solid white;
+	}
+	.boldTxt{
+		font-weight: 800
+	}
+	.photos{
+		height: 250px;
+		width: 250px;
+		padding: 0px 5px 0px 5px;
+		border-radius: 5px;
+
+	}
+	
+	.view{
+		background: linear-gradient(to right,  orange, white , green);
+		border: 0px;
+		box-shadow: 0 3px 5px 0 rgba(176, 194, 17, 0.88);
+		text-align: center;
+		padding: 5px;
+		border-radius: 5px;
+	}
+	.view:hover{
+		color: blue;
+		
+	}
